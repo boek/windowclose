@@ -17,7 +17,7 @@ export default function HomePage() {
             className="flex max-w-xs flex-col gap-4 rounded-xl bg-white/10 p-4 text-white hover:bg-white/20 cursor-pointer select-none"
             onClick={handleClick}
           >
-            <h3 className="text-2xl font-bold">Intermediate →</h3>
+            <h3 className="text-2xl font-bold">Final →</h3>
           </div>
         </div>
       </div>
